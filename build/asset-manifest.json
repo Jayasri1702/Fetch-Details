@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Fetch-Details/static/css/main.09bf0207.css",
+    "main.js": "/Fetch-Details/static/js/main.85f11a23.js",
+    "index.html": "/Fetch-Details/index.html",
+    "main.09bf0207.css.map": "/Fetch-Details/static/css/main.09bf0207.css.map",
+    "main.85f11a23.js.map": "/Fetch-Details/static/js/main.85f11a23.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.09bf0207.css",
+    "static/js/main.85f11a23.js"
+  ]
+}
